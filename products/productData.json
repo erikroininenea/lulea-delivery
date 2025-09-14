@@ -6,12 +6,6 @@
     "description": "Saftig hamburgare med ost.",
     "image": "images/Bravo Äpple Juice.png"
   },
-  {
-    "id": "p2",
-    "name": "Saltade Chips",
-    "price": 30,
-    "description": "Två tacos med köttfärs.",
-    "image": "tacos.png"
-  }
 ]
+
 
