@@ -1,0 +1,16 @@
+[
+  {
+    "id": "p1",
+    "name": "Bravo Äppel Juice",
+    "price": 50,
+    "description": "Saftig hamburgare med ost.",
+    "image": "hamburgare.png"
+  },
+  {
+    "id": "p2",
+    "name": "Saltade Chips",
+    "price": 30,
+    "description": "Två tacos med köttfärs.",
+    "image": "tacos.png"
+  }
+]
