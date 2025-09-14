@@ -1,10 +1,11 @@
-[
-  {
-    "id": "p1",
-    "name": "Bravo Äppel Juice",
-    "price": 50,
-    "description": "Saftig hamburgare med ost.",
-    "image": "images/Bravo_Appel_Juice.png"
-  }
-]
-
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "Bravo Appel Juice",
+      "price": 50,
+      "description": "Saftig hamburgare med ost.",
+      "image": "images/Bravo_Appel_Juice.png"
+    }
+  ]
+}
