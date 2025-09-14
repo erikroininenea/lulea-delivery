@@ -4,7 +4,7 @@
     "name": "Bravo Äppel Juice",
     "price": 50,
     "description": "Saftig hamburgare med ost.",
-    "image": "hamburgare.png"
+    "image": "images/Bravo Äpple Juice.png"
   },
   {
     "id": "p2",
@@ -14,3 +14,4 @@
     "image": "tacos.png"
   }
 ]
+
