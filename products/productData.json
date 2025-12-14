@@ -1,17 +1,11 @@
 {
   "products": [
     {
+      "id": "applejuice",
       "title": "Äppeljuice",
-      "description": "Fräsch och kall äppeljuice från lokala äpplen.",
+      "description": "Fräsch äppeljuice",
       "price": 25,
-      "image": "https://raw.githubusercontent.com/erikroininenea/lulea-delivery/main/products/images/Äppeljuice.png"
-    },
-    {
-      "title": "Apelsinjuice",
-      "description": "Söt och frisk apelsinjuice.",
-      "price": 30,
-      "image": "https://raw.githubusercontent.com/erikroininenea/lulea-delivery/main/products/images/Apelsinjuice.png"
+      "image": "https://raw.githubusercontent.com/erikroininenea/lulea-delivery/main/products/images/%C3%84ppeljuice.png"
     }
   ]
 }
-
