@@ -2,10 +2,17 @@
   "products": [
     {
       "id": "p1",
-      "name": "Bravo Appel Juice",
-      "price": 50,
-      "description": "Saftig hamburgare med ost.",
-      "image": "images/Bravo_Appel_Juice.png"
+      "title": "Gaming Mus",
+      "description": "En snabb och exakt gamingmus.",
+      "price": 499,
+      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/images/mouse.png"
+    },
+    {
+      "id": "p2",
+      "title": "Tangentbord",
+      "description": "Mekaniskt tangentbord med RGB.",
+      "price": 1299,
+      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/images/keyboard.png"
     }
   ]
 }
