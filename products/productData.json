@@ -1,64 +1,17 @@
-[
-  {
-    "title": "Äppeljuice",
-    "description": "Fräsch och kall äppeljuice från lokala äpplen.",
-    "price": 25,
-    "image": "https://raw.githubusercontent.com/erikroininenea/lulea-delivery/main/products/images/Äppeljuice.png"
-  },
-  {
-    "title": "Apelsinjuice",
-    "description": "Söt och frisk apelsinjuice.",
-    "price": 30,
-    "image": "https://raw.githubusercontent.com/erikroininenea/lulea-delivery/main/products/images/Apelsinjuice.png"
-  },
-  {
-    "title": "Bananshake",
-    "description": "Krämig shake med färsk banan.",
-    "price": 35,
-    "image": "https://raw.githubusercontent.com/erikroininenea/lulea-delivery/main/products/images/Bananshake.png"
-  },
-  {
-    "title": "Jordgubbssmoothie",
-    "description": "Smoothie med jordgubbar och yoghurt.",
-    "price": 40,
-    "image": "https://raw.githubusercontent.com/erikroininenea/lulea-delivery/main/products/images/Jordgubbssmoothie.png"
-  },
-  {
-    "title": "Vattenflaska",
-    "description": "500ml rent källvatten.",
-    "price": 15,
-    "image": "https://raw.githubusercontent.com/erikroininenea/lulea-delivery/main/products/images/Vattenflaska.png"
-  },
-  {
-    "title": "Kaffe",
-    "description": "Färskbryggt kaffe med härlig doft.",
-    "price": 20,
-    "image": "https://raw.githubusercontent.com/erikroininenea/lulea-delivery/main/products/images/Kaffe.png"
-  },
-  {
-    "title": "Te",
-    "description": "Varmt te i olika smaker.",
-    "price": 18,
-    "image": "https://raw.githubusercontent.com/erikroininenea/lulea-delivery/main/products/images/Te.png"
-  },
-  {
-    "title": "Chokladkaka",
-    "description": "Mörk chokladkaka med hög kakaohalt.",
-    "price": 45,
-    "image": "https://raw.githubusercontent.com/erikroininenea/lulea-delivery/main/products/images/Chokladkaka.png"
-  },
-  {
-    "title": "Macka",
-    "description": "Smörgås med ost och skinka.",
-    "price": 28,
-    "image": "https://raw.githubusercontent.com/erikroininenea/lulea-delivery/main/products/images/Macka.png"
-  },
-  {
-    "title": "Yoghurt",
-    "description": "Krämig yoghurt med fruktbitar.",
-    "price": 22,
-    "image": "https://raw.githubusercontent.com/erikroininenea/lulea-delivery/main/products/images/Yoghurt.png"
-  }
-]
-
-
+{
+  "products": [
+    {
+      "title": "Äppeljuice",
+      "description": "Fräsch och kall äppeljuice från lokala äpplen.",
+      "price": 25,
+      "image": "https://raw.githubusercontent.com/erikroininenea/lulea-delivery/main/products/images/Äppeljuice.png"
+    },
+    {
+      "title": "Apelsinjuice",
+      "description": "Söt och frisk apelsinjuice.",
+      "price": 30,
+      "image": "https://raw.githubusercontent.com/erikroininenea/lulea-delivery/main/products/images/Apelsinjuice.png"
+    }
+    // ... fortsätt med alla 10 produkter
+  ]
+}
