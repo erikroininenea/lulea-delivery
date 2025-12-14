@@ -1,18 +1,18 @@
 {
   "products": [
     {
-      "id": "p1",
-      "title": "Gaming Mus",
-      "description": "En snabb och exakt gamingmus.",
-      "price": 499,
-      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/images/mouse.png"
+      "id": "1",
+      "title": "Hörlurar",
+      "description": "Bra ljud och bas",
+      "price": 799,
+      "image": "https://raw.githubusercontent.com/USER/REPO/main/images/headphones.png"
     },
     {
-      "id": "p2",
-      "title": "Tangentbord",
-      "description": "Mekaniskt tangentbord med RGB.",
-      "price": 1299,
-      "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/images/keyboard.png"
+      "id": "2",
+      "title": "Mus",
+      "description": "Gamingmus",
+      "price": 499,
+      "image": "https://raw.githubusercontent.com/USER/REPO/main/images/mouse.png"
     }
   ]
 }
