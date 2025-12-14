@@ -13,16 +13,10 @@
       "description": "Lay's Saltade chips är släta potatischips som beskrivs som oemotståndligt goda. Deras popularitet ligger i kombinationen av enkelhet och en balanserad smakupplevelse, vilket gör dem till ett mångsidigt snacksalternativ. ",
       "price": 32,
       "image": "https://raw.githubusercontent.com/erikroininenea/lulea-delivery/refs/heads/main/products/images/Chips%20Saltade.png"
-    },
-        {
-      "id": "1",
-      "title": "Julmust Sockerfri",
-      "description": "Coops egna",
-      "price": 17,
-      "image": "https://raw.githubusercontent.com/erikroininenea/lulea-delivery/main/products/images/Julmust%20Sockerfri.png"
     }
   ]
 }
+
 
 
 
