@@ -2,17 +2,20 @@
   "products": [
     {
       "id": "1",
-      "title": "Hörlurar",
-      "description": "Bra ljud och bas",
-      "price": 799,
-      "image": "https://raw.githubusercontent.com/USER/REPO/main/images/headphones.png"
+      "title": "Bravo Äpple Juice",
+      "description": "Njut av hela två liter äpplejuice! Bravo är juice så som juice ska vara, 100 % naturlig, utan tillsatt socker eller andra tillsatser. Bravo är dessutom Sveriges största juice, vilket naturligtvis har med den goda smaken att göra.",
+      "price": 47,
+      "image": "https://raw.githubusercontent.com/erikroininenea/lulea-delivery/main/products/images/%C3%84ppeljuice.png"
     },
     {
       "id": "2",
-      "title": "Mus",
-      "description": "Gamingmus",
-      "price": 499,
-      "image": "https://raw.githubusercontent.com/USER/REPO/main/images/mouse.png"
+      "title": "Lays Chips Saltade",
+      "description": "Lay's Saltade chips är släta potatischips som beskrivs som oemotståndligt goda. Deras popularitet ligger i kombinationen av enkelhet och en balanserad smakupplevelse, vilket gör dem till ett mångsidigt snacksalternativ. ",
+      "price": 32,
+      "image": "https://raw.githubusercontent.com/erikroininenea/lulea-delivery/refs/heads/main/products/images/Chips%20Saltade.png"
     }
   ]
 }
+
+
+
